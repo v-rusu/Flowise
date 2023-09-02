@@ -2,6 +2,7 @@
     "name": "flowise",
     "version": "1.3.4",
     "private": true,
+    "proxy": "http://localhost:3000",
     "homepage": "https://flowiseai.com",
     "workspaces": [
         "packages/*",
